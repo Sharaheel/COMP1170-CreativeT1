@@ -1,5 +1,143 @@
-ref1 "Photo by Lance Anderson on Unsplash"
+REFERENCE USE STATEMENT
+The following third-party images, 3D models, environments and other visual materials were used solely as visual references during the design and modelling process. No third-party 3D models or textures listed below were incorporated into the submitted project. All submitted 3D assets and textures were created by me.
 
-ref2 "Low-Poly Stylized Vintage Caravan. Source: Hryhorii Bondar / Getty Images"
+MAIN ASSIGNMENT REFERENCE
 
-ref3 "Low-Poly Outdoor Environment. Source: dinn / Getty Images"
+Anderson, L. (2020) White and blue RV trailer on green grass field under blue sky during daytime [Photograph]. Unsplash. Available at:
+https://unsplash.com/photos/white-and-blue-rv-trailer-on-green-grass-field-under-blue-sky-during-daytime-JKmjElTIG5I  
+(Accessed: 31 August 2026).
+
+CARAVAN AND STYLE REFERENCES
+
+ArtStation (n.d.) Low Poly Halloween, Marta Silva [Image]. Pinterest. Available at:
+https://au.pinterest.com/pin/253609022760351702/ 
+(Accessed: 31 August 2026).
+
+Wave, M. (n.d.) A vintage Airstream trailer nestled in a tranquil autumn forest, evoking a sense of escape and adventure [Photograph]. Pexels. Available at:
+https://www.pexels.com/photo/old-metal-motor-house-in-forest-5875912/ 
+(Accessed: 31 August 2026).
+
+ᛟᛞᚨᛚᚹ ᚨᚱᚲᛟᚾᛊᚲᛁ (n.d.) A retro silver caravan set amidst a leafless forest creates a nostalgic scene [Photograph]. Pexels. Available at:
+https://www.pexels.com/photo/vintage-silver-caravan-in-a-leafless-forest-35552738/ 
+(Accessed: 31 August 2026).
+
+Huliselan, T. (n.d.) A sleek white caravan with red accents parked next to an industrial building under a clear blue sky [Photograph]. Pexels. Available at:
+https://www.pexels.com/photo/modern-caravan-parked-beside-industrial-building-36444011/ 
+(Accessed: 31 August 2026).
+
+Aashir, M. (n.d.) LOWPOLY CAR DESIGN [Image]. Pinterest. Available at:
+https://au.pinterest.com/pin/33284484737430241/ 
+(Accessed: 31 August 2026).
+
+
+CAMPSITE PROPS AND OBJECT REFERENCES
+
+zeeshan3dartist (n.d.) Bench and Table 3D Model [3D model – visual reference]. Free3D. Available at:
+https://free3d.com/3d-model/bench-and-table-3640.html 
+(Accessed: 31 August 2026).
+
+tkkjee (n.d.) Futuristic Table [3D model – visual reference]. Sketchfab. Available at: 
+https://sketchfab.com/3d-models/futuristic-table-ca3aeff150f24ff8ac94bf8968799e4f 
+(Accessed: 31 August 2026).
+
+urban_vintage (n.d.) A yellow plastic chair against a white background [Photograph]. Unsplash. Available at:
+https://unsplash.com/photos/a-yellow-plastic-chair-against-a-white-background-A2sjBb9YNOA 
+(Accessed: 31 August 2026).
+
+Madaci, R. (n.d.) Orange plastic armchair [Photograph]. Unsplash. Available at:
+https://unsplash.com/photos/orange-plastic-armchair-4iwG8QD17AE 
+(Accessed: 31 August 2026).
+
+Joe's Scuba Shack (n.d.) Coleman Xtreme Beach Cooler [Image]. Pinterest. Available at:
+https://au.pinterest.com/pin/650488739931379102/ 
+(Accessed: 31 August 2026).
+
+wpgstudio (n.d.) Sci-Fi Animated Lootbox Type1 Low-poly [3D model – visual reference]. CGTrader. Available at:
+https://www.cgtrader.com/3d-models/space/other/sci-fi-lootbox 
+(Accessed: 31 August 2026).
+
+WykydtronFAB (n.d.) Stylized Sci-Fi Cyberpunk Cannisters Cans Containers Thermos Props [3D model – visual reference]. TurboSquid. Available at:
+https://www.turbosquid.com/3d-models/3d-model-stylized-scifi-cyberpunk-cannisters-cans-containers-thermos-props-2460926 
+(Accessed: 31 August 2026).
+
+Arance, N. (n.d.) A clear plastic bottle filled with water against a solid blue backdrop, showcasing hydration [Photograph]. Pexels. Available at:
+https://www.pexels.com/photo/a-clear-plastic-bottle-in-blue-background-11860559/ 
+(Accessed: 31 August 2026).
+
+crntdesigners (n.d.) Sci-Fi Lantern – Sci-Fi Lamp Low-poly [3D model – visual reference]. CGTrader. Available at:
+https://www.cgtrader.com/3d-models/architectural/lighting/sci-fi-lantern-sci-fi-lamp 
+(Accessed: 31 August 2026).
+
+Dmitrenko, D. ‘The_Dctr’ (n.d.) Sci-Fi Lantern 3D Model [3D model – visual reference]. ArtStation. Available at:
+https://www.artstation.com/artwork/klonXx 
+(Accessed: 31 August 2026).
+
+
+ROCKS, ENVIRONMENTS AND SCENE REFERENCES
+
+Oxygenchick (n.d.) Bright Alien Planet Environment Stylized [3D environment – visual reference]. GameAssetDeals. Available at:
+https://www.gameassetdeals.com/asset/213953/bright-alien-planet-environment-stylized 
+(Accessed: 31 August 2026).
+
+Hasselmann, W. (n.d.) Vibrant orange sky over purple rocky coastline [Photograph]. Unsplash. Available at:
+https://unsplash.com/photos/vibrant-orange-sky-over-purple-rocky-coastline-0cb68i7ZjLM 
+(Accessed: 31 August 2026).
+
+Hasselmann, W. (n.d.) Surreal, vibrant landscape with colorful trees and fields [Photograph]. Unsplash. Available at:
+https://unsplash.com/photos/surreal-vibrant-landscape-with-colorful-trees-and-fields-B-5-DAud3IQ 
+(Accessed: 31 August 2026).
+
+Immortal Factory (n.d.) Beautiful Stylized Environment – Low Poly [3D environment – visual reference]. GameAssetDeals. Available at:
+https://www.gameassetdeals.com/asset/206761/beautiful-stylized-environment-low-poly 
+(Accessed: 31 August 2026).
+
+NeoX (n.d.) Superflight [Video game screenshot – visual reference]. AllWebGames. Available at:
+https://allwebgames.com/g/447049 
+(Accessed: 31 August 2026).
+
+Dot Products (n.d.) Titan Rock Generator Procedural v1.2.1 [3D asset screenshot – visual reference]. ModelDL. Available at:
+https://modeldl.com/product/titan-rock-generator-procedural-download/ 
+(Accessed: 31 August 2026).
+
+ARLOTS (n.d.) MULTI-BIOME FIND THE BUTTON [Fortnite island screenshot – visual reference]. Fortnite.GG. Available at:
+https://fortnite.gg/island/4287-6653-4268/history 
+(Accessed: 31 August 2026).
+
+Mr_Nova (n.d.) UE5 Stylized Environment / Rock Study [Digital environment study – visual reference]. Polycount. Available at:
+https://polycount.com/discussion/230782/ue5-stylized-environment-rock-study 
+(Accessed: 31 August 2026).
+
+
+PLANTS, TREES AND FOLIAGE REFERENCES
+
+King, A. (n.d.) LowPoly Alien Plants Pack [3D models – visual reference]. Behance. Available at:
+https://www.behance.net/gallery/64956067/LowPoly-Alien-Plants-Pack 
+(Accessed: 31 August 2026).
+
+Ilett, D. (2022) Six Grass Rendering Techniques in Unity [Tutorial/images – visual reference]. Daniel Ilett. Available at:
+https://danielilett.com/2022-12-05-tut6-2-six-grass-techniques/ 
+(Accessed: 31 August 2026).
+
+polyscans (n.d.) STYLIZED LOW POLY GRASS PACK VOL-9 [3D asset pack – visual reference]. Fab. Available at:
+https://www.fab.com/listings/2d127484-3a1e-4bb1-baad-c417ea0411c5 
+(Accessed: 31 August 2026).
+
+eldamarstudio (n.d.) Low Poly Sci-Fi Pack 3D Model [3D asset pack – visual reference]. RenderHub. Available at:
+https://www.renderhub.com/eldamarstudio/low-poly-sci-fi-pack 
+(Accessed: 31 August 2026).
+
+LowPolyBoy (n.d.) Stylize Plants and Flowers Pack 02 [3D asset pack – visual reference]. Sketchfab. Available at:
+https://sketchfab.com/3d-models/stylize-plants-and-flowers-pack-02-386813dec61b4d608645f23018f0c2d7 
+(Accessed: 31 August 2026).
+
+Fantasy Haven Assets (n.d.) LOW POLY – Alien Environment 06 [3D environment pack – visual reference]. itch.io. Available at:
+https://fantasyhavenassets.itch.io/alien-environment-06 
+(Accessed: 31 August 2026).
+
+indesign Interiors (n.d.) Plant pot [Image – visual reference]. Pinterest. Available at:
+https://ar.pinterest.com/pin/495536765251430314/ 
+(Accessed: 31 August 2026).
+
+Shapeways (n.d.) Poly Plant S – 3D Printed Accessories/Home Decor [Image – visual reference]. Pinterest. Available at:
+https://ar.pinterest.com/pin/202239839496791581/ 
+(Accessed: 31 August 2026).
